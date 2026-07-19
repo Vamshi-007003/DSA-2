@@ -3,18 +3,15 @@ class Solution {
         int n=s.length();
         if(s.length()!=t.length())
         return false;
-        Map<Character,Integer> map=new HashMap<>();
+        int count[]=new int[26];
         for(int i=0;i<n;i++){
-            map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
+            count[s.charAt(i)-'a']++;
         }
         for(int i=0;i<n;i++){
-            if(map.containsKey(t.charAt(i)))
-            map.put(t.charAt(i),map.get(t.charAt(i))-1);
-            else
-            map.put(t.charAt(i),map.getOrDefault(t.charAt(i),0)+1);
+            count[t.charAt(i)-'a']--;
         }
-        for(char ch:map.keySet()){
-            if(map.get(ch)!=0)
+        for(int i=0;i<26;i++){
+            if(count[i]!=0)
             return false;
         }
         return true;
