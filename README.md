@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vamshi-007003/DSA-2/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Vamshi-007003/DSA-2/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Vamshi-007003/DSA-2/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vamshi-007003/DSA-2/tree/master/0242-valid-anagram) |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vamshi-007003/DSA-2/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vamshi-007003/DSA-2/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vamshi-007003/DSA-2/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
