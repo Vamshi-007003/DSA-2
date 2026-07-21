@@ -4,11 +4,13 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vamshi-007003/DSA-2/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Vamshi-007003/DSA-2/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vamshi-007003/DSA-2/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Vamshi-007003/DSA-2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vamshi-007003/DSA-2/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Vamshi-007003/DSA-2/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vamshi-007003/DSA-2/tree/master/0242-valid-anagram) |
@@ -29,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vamshi-007003/DSA-2/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Vamshi-007003/DSA-2/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vamshi-007003/DSA-2/tree/master/0242-valid-anagram) |
 ## String Matching
