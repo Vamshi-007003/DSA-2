@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Vamshi-007003/DSA-2/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Vamshi-007003/DSA-2/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Vamshi-007003/DSA-2/tree/master/1903-largest-odd-number-in-string) |
 ## String
