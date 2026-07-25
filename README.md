@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vamshi-007003/DSA-2/tree/master/0014-longest-common-prefix) |
+| [0219-contains-duplicate-ii](https://github.com/Vamshi-007003/DSA-2/tree/master/0219-contains-duplicate-ii) |
 ## Trie
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vamshi-007003/DSA-2/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Vamshi-007003/DSA-2/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Vamshi-007003/DSA-2/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vamshi-007003/DSA-2/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vamshi-007003/DSA-2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String Matching
@@ -60,6 +62,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Vamshi-007003/DSA-2/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vamshi-007003/DSA-2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
