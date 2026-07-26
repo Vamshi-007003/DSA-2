@@ -68,4 +68,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vamshi-007003/DSA-2/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Vamshi-007003/DSA-2/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
