@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vamshi-007003/DSA-2/tree/master/0014-longest-common-prefix) |
+| [0137-single-number-ii](https://github.com/Vamshi-007003/DSA-2/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Vamshi-007003/DSA-2/tree/master/0219-contains-duplicate-ii) |
 ## Trie
 |  |
@@ -71,5 +72,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Vamshi-007003/DSA-2/tree/master/0137-single-number-ii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vamshi-007003/DSA-2/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
