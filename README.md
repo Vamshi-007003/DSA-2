@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Vamshi-007003/DSA-2/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Vamshi-007003/DSA-2/tree/master/0013-roman-to-integer) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vamshi-007003/DSA-2/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Vamshi-007003/DSA-2/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -31,6 +32,7 @@
 | [0137-single-number-ii](https://github.com/Vamshi-007003/DSA-2/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Vamshi-007003/DSA-2/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-007003/DSA-2/tree/master/0287-find-the-duplicate-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vamshi-007003/DSA-2/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Trie
 |  |
 | ------- |
@@ -76,9 +78,22 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/Vamshi-007003/DSA-2/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-007003/DSA-2/tree/master/0287-find-the-duplicate-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vamshi-007003/DSA-2/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vamshi-007003/DSA-2/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-007003/DSA-2/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vamshi-007003/DSA-2/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vamshi-007003/DSA-2/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vamshi-007003/DSA-2/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
