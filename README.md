@@ -96,4 +96,20 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vamshi-007003/DSA-2/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vamshi-007003/DSA-2/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vamshi-007003/DSA-2/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vamshi-007003/DSA-2/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vamshi-007003/DSA-2/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
