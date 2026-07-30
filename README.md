@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vamshi-007003/DSA-2/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Vamshi-007003/DSA-2/tree/master/0014-longest-common-prefix) |
 | [0137-single-number-ii](https://github.com/Vamshi-007003/DSA-2/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Vamshi-007003/DSA-2/tree/master/0219-contains-duplicate-ii) |
@@ -40,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vamshi-007003/DSA-2/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Vamshi-007003/DSA-2/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Vamshi-007003/DSA-2/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Vamshi-007003/DSA-2/tree/master/0219-contains-duplicate-ii) |
