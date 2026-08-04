@@ -30,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vamshi-007003/DSA-2/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Vamshi-007003/DSA-2/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vamshi-007003/DSA-2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vamshi-007003/DSA-2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0137-single-number-ii](https://github.com/Vamshi-007003/DSA-2/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Vamshi-007003/DSA-2/tree/master/0219-contains-duplicate-ii) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vamshi-007003/DSA-2/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vamshi-007003/DSA-2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vamshi-007003/DSA-2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Vamshi-007003/DSA-2/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
